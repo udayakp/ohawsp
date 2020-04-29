@@ -1,0 +1,9 @@
+gunicorn
+Flask
+aiml
+requests
+json2html
+tensorflow
+pandas
+numpy
+sklearn
